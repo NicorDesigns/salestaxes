@@ -1,0 +1,1 @@
+1 book : 12.491 music CD : 14.991 chocolate bar : 0.85
